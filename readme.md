@@ -26,5 +26,5 @@ A Node.js application that fetches cryptocurrency data from CoinGecko, stores it
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/crypto-price-tracker.git
-   cd crypto-price-tracker
+   git clone https://github.com/your-username/crypto-status.git
+   cd crypto-status
