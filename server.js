@@ -6,7 +6,7 @@ const cryptoRoutes = require('./routes/cryptoRoutes');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const MONGO_URI = 'mongodb+srv://aryanagarwal010903:0VhWRp0Wvac7DklU@cluster0.flg0y.mongodb.net/';
+const MONGO_URI = 'enter_mongo_uri';
 
 app.use(express.json());
 app.use('/api', cryptoRoutes);
